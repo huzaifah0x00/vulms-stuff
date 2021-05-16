@@ -1,0 +1,122 @@
+[
+    {
+        "Semester": "Spring 2021",
+        "title": "CS101: Quiz #01",
+        "start": "2021,06,09",
+        "end": "2021,06,11",
+        "backgroundColor": "linear-gradient(90deg, #00a65a 5px, transparent 0%) center, linear-gradient(#00a65a 5px, transparent 0%) center, #ffffff",
+        "borderColor": "#00a65a",
+        "allDay": "true",
+        "coursecode": "CS101",
+        "url": "/ActivityCalendar/OpenActivitySection.aspx?coursecode=CS101&ActivityType=QuizList",
+        "IsExpired": "0"
+    },
+    {
+        "Semester": "Spring 2021",
+        "title": "ENG101: Quiz No. 1",
+        "start": "2021,05,17",
+        "end": "2021,05,19",
+        "backgroundColor": "linear-gradient(90deg, #00a65a 5px, transparent 0%) center, linear-gradient(#00a65a 5px, transparent 0%) center, #ffffff",
+        "borderColor": "#00a65a",
+        "allDay": "true",
+        "coursecode": "ENG101",
+        "url": "/ActivityCalendar/OpenActivitySection.aspx?coursecode=ENG101&ActivityType=QuizList",
+        "IsExpired": "0"
+    },
+    {
+        "Semester": "Spring 2021",
+        "title": "MGT101: Quiz-01",
+        "start": "2021,05,27",
+        "end": "2021,06,01",
+        "backgroundColor": "linear-gradient(90deg, #00a65a 5px, transparent 0%) center, linear-gradient(#00a65a 5px, transparent 0%) center, #ffffff",
+        "borderColor": "#00a65a",
+        "allDay": "true",
+        "coursecode": "MGT101",
+        "url": "/ActivityCalendar/OpenActivitySection.aspx?coursecode=MGT101&ActivityType=QuizList",
+        "IsExpired": "0"
+    },
+    {
+        "Semester": "Spring 2021",
+        "title": "MTH101: Quiz 1",
+        "start": "2021,06,04",
+        "end": "2021,06,09",
+        "backgroundColor": "linear-gradient(90deg, #00a65a 5px, transparent 0%) center, linear-gradient(#00a65a 5px, transparent 0%) center, #ffffff",
+        "borderColor": "#00a65a",
+        "allDay": "true",
+        "coursecode": "MTH101",
+        "url": "/ActivityCalendar/OpenActivitySection.aspx?coursecode=MTH101&ActivityType=QuizList",
+        "IsExpired": "0"
+    },
+    {
+        "Semester": "Spring 2021",
+        "title": "MTH101: Quiz 2",
+        "start": "2021,07,14",
+        "end": "2021,07,19",
+        "backgroundColor": "linear-gradient(90deg, #00a65a 5px, transparent 0%) center, linear-gradient(#00a65a 5px, transparent 0%) center, #ffffff",
+        "borderColor": "#00a65a",
+        "allDay": "true",
+        "coursecode": "MTH101",
+        "url": "/ActivityCalendar/OpenActivitySection.aspx?coursecode=MTH101&ActivityType=QuizList",
+        "IsExpired": "0"
+    },
+    {
+        "Semester": "Spring 2021",
+        "title": "MTH101: Quiz 3",
+        "start": "2021,08,13",
+        "end": "2021,08,18",
+        "backgroundColor": "linear-gradient(90deg, #00a65a 5px, transparent 0%) center, linear-gradient(#00a65a 5px, transparent 0%) center, #ffffff",
+        "borderColor": "#00a65a",
+        "allDay": "true",
+        "coursecode": "MTH101",
+        "url": "/ActivityCalendar/OpenActivitySection.aspx?coursecode=MTH101&ActivityType=QuizList",
+        "IsExpired": "0"
+    },
+    {
+        "Semester": "Spring 2021",
+        "title": "PAK301: Quiz No. 1",
+        "start": "2021,05,17",
+        "end": "2021,05,19",
+        "backgroundColor": "linear-gradient(90deg, #00a65a 5px, transparent 0%) center, linear-gradient(#00a65a 5px, transparent 0%) center, #ffffff",
+        "borderColor": "#00a65a",
+        "allDay": "true",
+        "coursecode": "PAK301",
+        "url": "/ActivityCalendar/OpenActivitySection.aspx?coursecode=PAK301&ActivityType=QuizList",
+        "IsExpired": "0"
+    },
+    {
+        "Semester": "Spring 2021",
+        "title": "PAK301: Quiz No. 2",
+        "start": "2021,06,02",
+        "end": "2021,06,04",
+        "backgroundColor": "linear-gradient(90deg, #00a65a 5px, transparent 0%) center, linear-gradient(#00a65a 5px, transparent 0%) center, #ffffff",
+        "borderColor": "#00a65a",
+        "allDay": "true",
+        "coursecode": "PAK301",
+        "url": "/ActivityCalendar/OpenActivitySection.aspx?coursecode=PAK301&ActivityType=QuizList",
+        "IsExpired": "0"
+    },
+    {
+        "Semester": "Spring 2021",
+        "title": "PAK301: Quiz No. 3",
+        "start": "2021,08,16",
+        "end": "2021,08,18",
+        "backgroundColor": "linear-gradient(90deg, #00a65a 5px, transparent 0%) center, linear-gradient(#00a65a 5px, transparent 0%) center, #ffffff",
+        "borderColor": "#00a65a",
+        "allDay": "true",
+        "coursecode": "PAK301",
+        "url": "/ActivityCalendar/OpenActivitySection.aspx?coursecode=PAK301&ActivityType=QuizList",
+        "IsExpired": "0"
+    },
+    {
+        "Semester": "Spring 2021",
+        "title": "MGT101: GDB-01...",
+        "start": "2021,05,11",
+        "end": "2021,05,20",
+        "backgroundColor": "linear-gradient(90deg, #f39c12 5px, transparent 0%) center, linear-gradient(#f39c12 5px, transparent 0%) center, #ffffff",
+        "borderColor": "#f39c12",
+        "allDay": "true",
+        "coursecode": "MGT101",
+        "url": "/ActivityCalendar/OpenActivitySection.aspx?coursecode=MGT101&ActivityType=GDB",
+        "IsExpired": "0"
+    }
+]
